@@ -1,3 +1,4 @@
 # Covid19AndViralPneumoniaDetector-Deep-CNN
 
-## Check out Main.ipynb
+## Check out Summary.pdf for an overall overview of the project
+## Check out Main.ipynb for more details about the implementation of the mdoel from start to end.
